@@ -3,14 +3,14 @@ An interactive sales analytics dashboard built in Tableau for a dairy products b
 �
 This Tableau dashboard provides a comprehensive view of dairy product sales performance across multiple dimensions — product, region, sales channel, and time — enabling data-driven business decisions.
 # 🔢 Key Metrics
-Metric
-Value
-Total Units Sold
-₹ 1.07M
-Total Revenue
-₹ 58.73M
-Current Stock
-₹ 1.09M
+-Metric
+-Value
+-Total Units Sold
+-₹ 1.07M
+-Total Revenue
+-₹ 58.73M
+-Current Stock
+-₹ 1.09M
 Average Price
 ₹ 54.79
 # 📌 Dashboard Sections
