@@ -39,6 +39,8 @@ This Tableau dashboard provides a comprehensive view of dairy product sales perf
 - *Microsoft Excel / CSV* — Data source
 
 ---
+## Dashboard screenshot
+<img width="602" height="401" alt="Screenshot 2026-05-19 143712" src="https://github.com/user-attachments/assets/83d41b10-88db-46df-8bec-1da9d2808974" />
 
 ## 👤 Author
 
